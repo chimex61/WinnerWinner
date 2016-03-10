@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+.env
+/public_html
+winner.zip
+/.idea
+/logs
+sql.sql
+sql.tar.gz

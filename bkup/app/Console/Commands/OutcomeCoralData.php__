@@ -1,0 +1,204 @@
+<?php namespace App\Console\Commands;
+
+use Illuminate\Console\Command;
+use Symfony\Component\Console\Input\InputOption;
+use Symfony\Component\Console\Input\InputArgument;
+
+use App\Winner\Repositories\Contracts\VenueMasterInterface as VenueMaster;
+use App\Winner\Repositories\Contracts\EventMasterInterface as EventMaster;
+use App\Winner\Repositories\Contracts\GameGroupMasterInterface as GameGroupMaster;
+use App\Winner\Repositories\Contracts\ApiMasterInterface as ApiMaster;
+use App\Winner\Repositories\Contracts\OutcomeMasterInterface as OutcomeMaster;
+
+class OutcomeCoralData extends Command {
+
+    var $api_id;
+    var $base_api_url;
+    var $response_formate;
+    var $api_auth;
+    var $call_url;
+    var $response;
+    var $json_data;
+    var $xml_data;
+    var $outcome_array;
+    var $sql_array;
+	/**
+	 * The console command name.
+	 *
+	 * @var string
+	 */
+	protected $name = 'winner:getOutcomeCoralData';
+
+	/**
+	 * The console command description.
+	 *
+	 * @var string
+	 */
+	protected $description = 'Get Outcome Data From Coral';
+
+    private $venueMaster;
+    private $eventMaster;
+    private $gameGroupMaster;
+    private $apiMaster;
+    private $outcomeMaster;
+
+    /**
+     * Create a new command instance.
+     *
+     * @return void
+     */
+    public function __construct(VenueMaster $venueMaster, EventMaster $eventMaster, GameGroupMaster $gameGroupMaster, ApiMaster $apiMaster, OutcomeMaster $outcomeMaster)
+    {
+        parent::__construct();
+        $this->eventMaster = $eventMaster;
+        $this->venueMaster = $venueMaster;
+        $this->gameGroupMaster = $gameGroupMaster;
+        $this->apiMaster = $apiMaster;
+        $this->outcomeMaster = $outcomeMaster;
+    }
+
+    /**
+     * Execute the console command.
+     *
+     * @return mixed
+     */
+    public function fire()
+    {
+        $apiMaster = $this->apiMaster->where('id',6,'=')->first();
+        $this->base_api_url = $apiMaster->base_url;
+        $this->api_id = $apiMaster->id;
+        $this->api_auth = $apiMaster->auth;
+        $this->api_name = $apiMaster->name;
+        $this->response_formate = "json";
+        //$this->CoralData($this->api_id);
+         $this->CoralOutcomeData($this->api_id);
+    }
+
+    public function CoralOutcomeData($apiID)
+    {
+        $this->api_id = $apiID;
+        $today_stamp = strtotime("0:00:00");
+        $today_date_time = date("Y-m-d H:i:s");
+
+        $getEventIDs = $this->eventMaster->where('api_id', $this->api_id, '=')->where('bet_till_date', $today_date_time, '>')->get();
+        foreach($getEventIDs as $getEventID){
+            $countOutcomeMasters = $this->outcomeMaster->where('event_id', $getEventID->event_id, '=')->count();
+            if($countOutcomeMasters !=0) {
+                $deleteOutcomeMasters = $this->outcomeMaster->where('event_id', $getEventID->event_id, '=')->delete();
+            }
+        }
+
+        $getEventMasters = $this->eventMaster->where('api_id', $this->api_id, '=')->where('date_stamp', $today_stamp, '=')->where('bet_till_date', $today_date_time, '>')->get();
+        foreach ($getEventMasters as $getEventMaster) {
+            $event_id = $getEventMaster->event_id;
+            $venue_id = $getEventMaster->venue_id;
+            $getvenueMaster = $this->venueMaster->where('venue_id', $venue_id, '=')->first();
+            $game_id = $getvenueMaster->game_id;
+            $g_g_id = $getvenueMaster->g_g_id;
+            $url_outcome = $this->base_api_url . "oxi/pub?template=getEventDetails&event=" . $event_id . "&returnRaceInfo=Y";
+#$this->info($url_outcome);
+            $this->response = get_url($url_outcome,'',true);
+            $this->xml_data = simplexml_load_string($this->response[0]);
+           # $events = $this->xml_data->response->event;
+          #  foreach($events as $vk=>$event){
+            #    $event_id = $event['id']."";
+                $markets = $this->xml_data->response->event->market;
+          #  $this->info(dd($markets));
+#$this->info('Event ID: '.$event_id);
+                if($this->xml_data->response['code']=="001")
+                {
+                    foreach($markets as $mk=>$market)
+                    {
+                        $bet_type=validate_string($market['name']);
+
+                      #  $last_update_mt = strtotime($market['lastUpdateDate'].' '.$market['lastUpdateTime']);
+                         # $this->info($last_update_mt);
+#$this->info('Bet Type: '.$bet_#type);
+                        foreach($market->outcome as $ok=>$outcome)
+                        {
+#$this->info('Name: '.$outcome['name']);
+                            $last_update_ot = $outcome['id'] . '-' . $outcome['lastUpdateDate'].' '.$outcome['lastUpdateTime'];
+
+                         #   $last_update_ot = $last_update_o + $last_update_mt;
+                       #    $this->info(dd($last_update_ot));
+                            $label_id=validate_string($outcome['id']);
+                            $label=validate_string($outcome['name']);
+                            $label = validate_string($label);
+                            $lp_decimal =  validate_string($outcome['oddsDecimal']);
+                            $lp_disp_fraction = validate_string($outcome['odds']);
+                            $result =validate_string($outcome['result'] ."");
+                            $resultType = validate_string($outcome['resultType']."");
+                            $scoreHome =validate_string($outcome['scoreHome']."");
+                            $scoreAway =validate_string($outcome['scoreAway']."");
+                            $runner = $outcome->runner;
+                            #$this->info($runner['age']);
+                            $other_array = array(
+                                "result" => $result,
+                                "resultType" => $resultType,
+                                "scoreHome" => $scoreHome,
+                                "scoreAway" => $scoreAway,
+                                "drawNumber" => $runner['drawNumber']."",
+                                "formGuide" => $runner['formGuide']."",
+                                "age" => $runner['age']."",
+                                "jockey" => $runner['jockey']."",
+                                "owner" => $runner['owner']."",
+                                "silk" => rtrim($runner->silk['id']."",'.gif'),
+                                "runner" => $runner->overview[0]."",
+                                "sire" => $runner->overview[1]."",
+                                "bet_type" => $bet_type."",
+                            );
+                            $other_data = validate_string(json_encode($other_array));
+
+
+
+                            $outcome_info = array(
+                                "label"=>$label,
+                                "bet_type"=>$bet_type,
+                                "odd"=>$lp_decimal,
+                                "odd_fractional"=>$lp_disp_fraction,
+                                "event_id"=>$event_id,
+                                "add_date"=>'',
+                                "other"=>$other_data,
+                                "game_id"=>$game_id,
+                                "g_g_id"=>$g_g_id,
+                                "date_stamp"=>$today_stamp,
+                                "api_id"=>$this->api_id,
+                                "last_update_ot"=>$last_update_ot,
+
+                            );
+                      #     $this->info(dd($outcome_info));
+
+                            $sql = $this->outcomeMaster->create($outcome_info);
+$this->info($sql);
+                        }
+                   # }
+                }
+            }
+        }
+    }
+
+	/**
+	 * Get the console command arguments.
+	 *
+	 * @return array
+	 */
+	protected function getArguments()
+	{
+		return [
+			//['example', InputArgument::REQUIRED, 'An example argument.'],
+		];
+	}
+
+	/**
+	 * Get the console command options.
+	 *
+	 * @return array
+	 */
+	protected function getOptions()
+	{
+		return [
+			//['example', null, InputOption::VALUE_OPTIONAL, 'An example option.', null],
+		];
+	}
+
+}

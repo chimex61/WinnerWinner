@@ -1,0 +1,437 @@
+{{--*/
+    use App\Models\EventMaster;
+    use App\Models\OutcomeMaster;
+    $today_date = date("Y-m-d");
+    $today_date_time = date("Y-m-d H:i:s");
+    $today_stamp = strtotime("0:00:00");
+/*--}}
+@extends('frontend.layout')
+
+@section('frontend.inline_styles')
+@endsection
+
+@section('frontend.content')
+<section id="main-wrapper" class="HorseRacing">
+    <h3 class="subtitle">Horse Racing</h3>
+    <hr>
+    <div class="col-md-12 ">
+        <div class="row">
+	        <form class="form-horizontal DateTime" role="form">
+		        <div class="form-group">
+			        <div class="col-sm-4">
+				        <div class="input-group">
+                            <span class="input-group-addon">Date</span>
+                            <input type='text' class='form-control' data-date-format='dd/mm/yyyy' value='{{Carbon\Carbon::today()->format('d/m/Y')}}' id='dp3' >
+				          <!--  <span class="input-group-btn">
+                                <button class="btn btn-success" onClick="return get_events('')" type="button">Go!</button>
+                            </span>-->
+				         </div>
+			        </div>
+					<div class="col-sm-4">
+				        <div class="input-group">
+                            <span class="input-group-addon">Time</span>
+				            <div class="LocalTime form-control">
+                                <script language="javascript" src="{{URL::to('/')}}/assets/js/liveclock.js"></script>
+				            </div>
+				        </div>
+			        </div>
+			        <div class="col-sm-4 ShareBlock">
+				        <div class="input-group">
+                            <span class="input-group-addon">Share</span>
+				            <div class="LocalTime form-control">
+                                <a href="" class="TwitterShare"><i class="fa fa-twitter"></i></a>
+                                <a href="" class="FacebookShare"><i class="fa fa-facebook"></i></a>
+                                <a href="whatsapp://send?text=The text to share!" data-action="share/whatsapp/share" class="WatsappShare"><i class="fa fa-whatsapp"></i></a>
+                                <a href="" class="GoogleShare"><i class="fa fa-google-plus"></i></a>
+				            </div>
+				         </div>
+			        </div>
+		        </div>
+	        </form>
+	        <hr>
+	        <div class="form-group BetTypeDropdown">
+	            <label class="col-sm-2 control-label">Select bet type</label>
+	            <div class="col-sm-4">
+                    <select style="width:100%" id="bet_type" onChange="get_events('');">
+                    @foreach($bet_types as $bet_type)
+                        @if($bet_type->bet_type !="" )
+                            @if(
+                                    $bet_type->bet_type =="Winning Distance" ||
+                                    $bet_type->bet_type =="Multi position" ||
+                                    $bet_type->bet_type =="win" ||
+                                    $bet_type->bet_type =="Outright NRNB" ||
+                                    $bet_type->bet_type =="Win Only" ||
+                                    $bet_type->bet_type =="Win or Each Way" ||
+                                    $bet_type->bet_type =="Outright Betting" ||
+                                    $bet_type->bet_type =="Antepost Outright" ||
+                                    $bet_type->bet_type =="2016 Betfred Cheltenham Gold Cup" ||
+                                    $bet_type->bet_type =="2016 Champion Hurdle" ||
+                                    $bet_type->bet_type =="Silviniaco Conti to win the Grand National"
+                                )
+                            @else
+                                <option value='{!!$bet_type->bet_type!!}' >{!!$bet_type->bet_type!!}</option>
+                            @endif
+                        @endif
+                    @endforeach
+                    </select>
+	            </div>
+	        </div>
+	        <hr>
+		    <div id="venue_list">
+            {{--*/
+                $curent_call_js="";
+                $is_hidden = '';
+            /*--}}
+            @foreach($horseVenueMasters as $horseVenueMaster)
+
+<?php
+if (array_key_exists($horseVenueMaster->venue_name, $venueLists)) {
+
+
+?>
+            {{--*/
+                $flag_init=false;
+                $countHorseEventMasters = EventMaster::where('venue_id',$horseVenueMaster->venue_id,'=')->where('api_id',1,'=')->where('start_date','LIKE',$today_date.'%')->orderby('start_date','asc')->count();
+                $horseEventMasters = EventMaster::where('venue_id',$horseVenueMaster->venue_id,'=')->where('api_id',1,'=')->where('start_date','LIKE',$today_date.'%')->orderby('start_date','asc')->get();
+            /*--}}
+                @if(count(GetEvents($horseVenueMaster->venue_id)) <= 0)
+                   {{--*/ $is_hidden="hide"; /*--}}
+                @else
+				<div class='panel panel-default {{$is_hidden}}' data-VenueId='{{$horseVenueMaster->venue_id}}' id="{{$horseVenueMaster->venue_id}}">
+                    <div class='panel-heading'>
+                        <h3 class='panel-title'><img class='Icon' src='{{URL::to('/')}}/assets/images/Horse.png'> {{$horseVenueMaster->venue_name}}</h3>
+                        <div class='panel-options pull-right'>
+                            <i class='fa fa-chevron-down'></i> <i class='fa fa-times'></i>
+                        </div>
+                    </div>
+                    <div id='event_{{$horseVenueMaster->venue_id}}' class='panel-body collapse'>
+                        {{--*/ $state_class="finished"; /*--}}
+                        <ul class='nav nav-pills nav-justified' id='myTab{{$horseVenueMaster->venue_id}}'>
+                        {{--*/
+                            $activated=false;
+                            $ev_first_key = 1;
+                            $start_counters = 1;
+                        /*--}}
+				        @foreach(GetEvents($horseVenueMaster->venue_id) as $horseEventMaster)
+                        {{--*/
+                            $start_time_obj = DateTime::createFromFormat('Y-m-d H:i:s',$horseEventMaster->start_date);
+                            $event_date = $horseEventMaster->start_date;
+                            $start_time = $start_time_obj->format('H:i');
+                            $dtA = strtotime($horseEventMaster->start_date);
+                            $dtB = time();
+                            if ( strtotime($horseEventMaster->start_date) < time() )
+                            {
+                              $em_state = "event-started";
+                            }
+                            else
+                            {
+                               $em_state = "event-not-started";
+                            }
+                            $is_active=$state_class;
+                            $out_odds="no odds";
+                            if($flag_init===false)
+                            {
+                                $flag_init=true;
+                                $out_odds="";
+                                $out_odds_venue_id=$horseVenueMaster->venue_id;
+                                $out_odds_event_id=$horseEventMaster->event_id;
+                                $out_odds_venue_name=$horseVenueMaster->venue_name;
+                                $out_odds_start_date=$horseEventMaster->start_date;
+                            }
+                            $class_add = "";
+                            if((time())>strtotime($horseEventMaster->start_date))
+                            {
+                                $class_add = " red";
+                                $em_state = "event-started";
+                            }
+                            if($em_state=="event-started")
+                            {
+                                $is_active="";
+                                $state_class="";
+                                $out_odds="";
+                                $out_odds_venue_id=$horseVenueMaster->venue_id;
+                                $out_odds_venue_name=$horseVenueMaster->venue_name;
+                                $out_odds_start_date=$horseEventMaster->start_date;
+                            }
+                            elseif($activated==false)
+                            {
+                                $activated=true;
+                                $is_active="active";
+                                $out_odds_event_id=$horseEventMaster->event_id;
+                            }
+
+                            $ev_start_date = strtotime($horseEventMaster->start_date);
+                            $cur_time = strtotime($today_date_time);
+
+                        /*--}}
+                            @if($cur_time > $ev_start_date)
+
+
+
+
+                                <li class='{{$em_state}}' id='{{$horseEventMaster->event_id}}'>
+                                    <a data-toggle='tab' class='{{$is_active}} {{$class_add}}' href='#Tab{{$horseVenueMaster->venue_id}}' onclick="get_odds('myTabContent__body{{$horseVenueMaster->venue_id}}','{{$horseVenueMaster->venue_name}}','{{$horseEventMaster->start_date}}','{{$horseEventMaster->event_id}}','{{$class_add}}','Win & Each Way');" >{{$start_time}} </a>
+                                </li>
+
+                              {{--*/
+
+                                                              $start_counters = 0;
+                                                          /*--}}
+
+                            @else
+
+                                @if($start_counters == 1)
+                                    <li class='{{$em_state}} active' id='{{$horseEventMaster->event_id}}'>
+                                        <a data-toggle='tab' class='{{$is_active}} {{$class_add}}' href='#Tab{{$horseVenueMaster->venue_id}}' onclick="get_odds('myTabContent__body{{$horseVenueMaster->venue_id}}','{{$horseVenueMaster->venue_name}}','{{$horseEventMaster->start_date}}','{{$horseEventMaster->event_id}}','{{$class_add}}','Win & Each Way');" >{{$start_time}} </a>
+                                    </li>
+                                @else
+
+                                    <li class='{{$em_state}}' id='{{$horseEventMaster->event_id}}'>
+                                        <a data-toggle='tab' class='{{$is_active}} {{$class_add}}' href='#Tab{{$horseVenueMaster->venue_id}}' onclick="get_odds('myTabContent__body{{$horseVenueMaster->venue_id}}','{{$horseVenueMaster->venue_name}}','{{$horseEventMaster->start_date}}','{{$horseEventMaster->event_id}}','{{$class_add}}','Win & Each Way');" >{{$start_time}} </a>
+                                    </li>
+                                @endif
+
+                            @endif
+                            {{--*/
+                                $curent_call_js .="\n\n$('#e{$out_odds_event_id} a').click();";
+                                $curent_call_js .="\n\n$('#e{$out_odds_event_id}').addClass('active');";
+                                $start_counters = $start_counters + 1;
+                            /*--}}
+
+                        @endforeach
+                        </ul>
+                        <div class='tab-content' id='myTabContent_{{$horseVenueMaster->venue_id}}'>
+                        {{--*/ $fade_in="active"; /*--}}
+                            <div class='tab-pane {{$fade_in}}' id='Tab{{$horseVenueMaster->venue_id}}'>
+                                <div class='panel-body active' id='myTabContent__body{{$horseVenueMaster->venue_id}}'>
+
+                                <?php
+                                    $eventsarr = array();
+                                    $start_counter = 1;
+                                    $changed_odd_type = Session::get('changed_odd_type');
+                                ?>
+                                    @if($changed_odd_type=='')
+                                        {{--*/  $odd_type = 'Win & Each Way'; /*--}}
+                                    @else
+                                       {{--*/ $odd_type = $changed_odd_type; /*--}}
+                                    @endif
+                                    @foreach(GetEvents($horseVenueMaster->venue_id) as $getHorseEvents)
+                                        {{--*/
+                                            $ev_start_date = strtotime($getHorseEvents->start_date);
+                                            $cur_time = strtotime($today_date_time);
+                                        /*--}}
+                                        @if($cur_time > $ev_start_date)
+
+                                        @else
+                                            @if($start_counter == 1)
+
+                                            <script type="text/javascript">
+                                                $(function() {
+                                                   // $("#{!!$horseVenueMaster->venue_id!!}").onClick(function(){
+                                                        //console.log('working');
+                                                        var url="{{URL::to('/')}}/horse-racing/get_odd";
+                                                        var tab_id = "myTabContent__body{!!$horseVenueMaster->venue_id!!}";
+                                                        var venueName = "{!!$horseVenueMaster->venue_name!!}";
+                                                        var eventDate = "{!!$getHorseEvents->start_date!!}";
+                                                        var eventId = "{!!$getHorseEvents->event_id!!}";
+                                                        var oddType = "{!!HTML::decode($odd_type)!!}";
+                                                        var tableType;
+                                                        venue_id =venueName.replace(/ /g,"-");
+                                                        venue_id =venueName.replace(/[^a-zA-Z0-9_-]/g,'');
+                                                        $('#'+tab_id).parent().append("<div class='loading'></div>");
+                                                        $('#'+tab_id).parent().css("position","relative");
+                                                        	$.post(url, {venue_name:venueName,event_date:eventDate,event_id:eventId,table_type:tableType,odd_type:oddType}, function(result){
+                                                        		$('#'+tab_id).html(result);
+                                                        		$('.loading').remove();
+                                                        		if(oTable)
+                                                        			oTable.fnDestroy();
+                                                        		console.log("#table"+eventId);
+                                                        		if(tableType==" red")
+                                                        		{
+                                                        			var oTable  = $("#table"+eventId).dataTable({
+                                                                        "bPaginate": false,
+                                                                        "oLanguage": {
+                                                                                 "sSearch": ""
+
+                                                                               },
+                                                                        "aaSorting": [[ 5, "desc" ]]
+                                                                    });
+                                                        		}
+                                                        		else
+                                                        		{
+                                                        			var oTable  = $("#table"+eventId).dataTable({
+                                                        			            "bPaginate": false,
+
+"oLanguage": {
+         "sSearch": ""
+
+       },
+                                                        			           "aoColumnDefs": [ { "bSortable": false, "aTargets": [ 1, 6 ] } ]
+                                                        			});
+                                                        		}
+                                                        		$('div.dataTables_filter input').attr('placeholder', 'Filter this race ...');
+                                                        		convert(odds_converter);
+                                                        		$("#table"+eventId).css("width","100%");
+                                                        		//$('<a href="/horse-racing-compare.php?event_id='+eventId+'&odd_type='+encodeURIComponent(oddType)+'" class="btn btn-primary">Compare</a>').appendTo('#table'+eventId+'_wrapper div.dataTables_filter');
+
+                                                        	});
+
+
+                                                      //});
+                                                });
+
+                                            </script>
+                                            @endif
+                                            {{--*/  $start_counter = $start_counter + 1; /*--}}
+                                        @endif
+                                    @endforeach
+                                <div id='myTabContent__body{{$horseVenueMaster->event_id}}'>
+                                <!--
+                                    <table class='table table-striped BetTable table-hover table-bordered' cellpadding='0' cellspacing='0' border='0' id=''>
+                                        <thead>
+                                            <tr class='SortingPart'>
+                                                <th>#</th>
+                                                <th class='no-sort'>Silk</th>
+                                                <th>Jockey</th>
+                                                <th>Horse</th>
+
+                                                <th>Odds</th>
+                                                <th class='no-sort'>Bet Count</th>
+                                                <th class='no-sort'>All odds</th>
+
+                                                <th>Result</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+
+
+                                        </tbody>
+                                    </table>
+                                    -->
+                                </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                @endif
+                {{--*/ $is_hidden=""; /*--}}
+                <?php }else{} ?>
+		    @endforeach
+		</div>
+    </div>
+</div>
+</section>
+
+@endsection
+
+@section('frontend.inline_scripts')
+
+<script type="text/javascript">
+
+var search_visible = false;
+var is_expanded = false;
+var odds_converter = 0;
+function get_odds(tab_id,venueName,eventDate,eventId,tableType,oddType)
+{
+	var url="{{URL::to('/')}}/horse-racing/get_odd";
+	venue_id =venueName.replace(/ /g,"-");
+	venue_id =venueName.replace(/[^a-zA-Z0-9_-]/g,'');
+	$('#'+tab_id).parent().append("<div class='loading'></div>");
+	$('#'+tab_id).parent().css("position","relative");
+	$.post(url, {venue_name:venueName,event_date:eventDate,event_id:eventId,table_type:tableType,odd_type:oddType}, function(result){
+		$('#'+tab_id).html(result);
+		$('.loading').remove();
+		if(oTable)
+			oTable.fnDestroy();
+		console.log("#table"+eventId);
+		if(tableType==" red")
+		{
+			var oTable  = $("#table"+eventId).dataTable({
+                "bPaginate": false,
+                "oLanguage": {
+                         "sSearch": ""
+
+                       },
+                "aaSorting": [[ 5, "desc" ]]
+            });
+		}
+		else
+		{
+			var oTable  = $("#table"+eventId).dataTable({
+			            "bPaginate": false,
+"oLanguage": {
+         "sSearch": ""
+
+       },
+			           "aoColumnDefs": [ { "bSortable": false, "aTargets": [ 1, 6 ] } ]
+			});
+
+		}
+		$('div.dataTables_filter input').attr('placeholder', 'Filter this race ...');
+		convert(odds_converter);
+		$("#table"+eventId).css("width","100%");
+		//$('<a href="/horse-racing-compare.php?event_id='+eventId+'&odd_type='+encodeURIComponent(oddType)+'" class="btn btn-primary">Compare</a>').appendTo('#table'+eventId+'_wrapper div.dataTables_filter');
+	});
+}
+function get_events(tab_id)
+{
+	// $('#'+tab_id).html("Loading..");
+	var url="{{URL::to('/')}}/horse-racing/get_event";
+	eventDate = $("#dp3").val();
+	var odd_type = $("#bet_type option:selected").val();
+	$('#venue_list').parent().append("<div class='loading'></div>");
+	$('#venue_list').parent().css("position","relative");
+	$(".alertify-buttons").css("display", "none");
+	$.post(url, {event_date:eventDate, odd_type:odd_type}, function(result){
+		$("#venue_list").html(result);
+		$(".panel-heading").on("click", function(e){
+			var $_target =  $(e.currentTarget);
+			var $_panelBody = $_target.parent().find(".panel-body");
+			if($_panelBody){
+				$_panelBody.collapse('toggle')
+			}
+        });
+		$("li").removeClass("active");
+		$(".nav-pills").each(function(){
+			var li = $(this).find("li:not(.event-started):eq(0)");
+			$(li).addClass("active");
+			var a = $(li).find("a:eq(0)");
+			$(a).click();
+			$(a).addClass("active");
+		});
+		$('.loading').remove();
+	});
+	return false;
+}
+
+
+function get_bet_count(event_id,venue_name,name,odd_type)
+{
+	var bet_data = {
+                event_id: event_id,
+                venue_name:venue_name,
+                name:name,
+                odd_type:odd_type
+            }
+    var url="{{URL::to('/')}}/horse-racing/get_bet_click";
+
+
+            $.ajax({
+                url: url,
+                type: 'post',
+                dataType: 'json',
+                cache: false,
+                success: function (json) {
+                            $( '#' + json.name ).text( json.count );
+                },
+                data: bet_data
+            });
+}
+
+
+</script>
+
+@endsection

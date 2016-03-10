@@ -1,0 +1,1138 @@
+[17-Sep-2015 09:56:18 Europe/London] PHP Fatal error:  Maximum execution time of 900 seconds exceeded in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 224
+[17-Sep-2015 13:15:01 Europe/London] PHP Fatal error:  Maximum execution time of 900 seconds exceeded in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 224
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 355 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 356 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 357 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 358 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 359 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 360 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 361 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 362 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 363 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 364 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 365 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 366 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 367 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 368 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 369 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 370 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 371 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 372 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 373 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 374 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 375 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 376 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 377 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 378 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 379 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 380 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 381 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 382 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 383 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 384 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 385 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 386 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 387 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 388 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 389 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 390 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 391 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 392 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 393 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 394 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 395 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 396 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 397 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 398 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 399 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 400 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 401 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 402 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 403 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 404 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 355 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 356 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 357 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 358 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 359 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 360 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 361 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 362 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 363 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 364 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 365 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 366 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 367 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 368 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 369 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 370 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 371 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 372 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 373 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 374 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 375 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 376 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 377 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 378 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 379 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 380 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 381 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 382 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 383 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 384 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 385 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 386 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 387 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 388 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 389 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 390 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 391 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 392 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 393 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 394 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 395 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 396 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 397 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 398 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 399 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 400 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 401 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 402 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 403 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 12:15:01 UTC] PHP Warning:  (null)(): 404 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:21:48 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[17-Sep-2015 16:15:02 Europe/London] PHP Fatal error:  Maximum execution time of 900 seconds exceeded in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 224
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 355 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 356 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 357 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 358 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 359 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 360 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 361 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 362 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 363 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 364 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 365 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 366 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 367 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 368 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 369 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 370 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 371 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 372 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 373 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 374 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 375 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 376 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 377 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 378 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 379 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 380 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 381 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 382 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 383 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 384 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 385 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 386 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 387 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 388 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 389 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 390 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 391 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 392 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 393 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 394 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 395 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 396 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 397 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 398 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 399 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 400 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 401 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 402 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 403 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 404 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 355 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 356 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 357 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 358 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 359 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 360 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 361 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 362 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 363 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 364 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 365 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 366 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 367 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 368 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 369 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 370 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 371 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 372 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 373 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 374 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 375 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 376 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 377 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 378 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 379 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 380 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 381 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 382 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 383 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 384 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 385 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 386 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 387 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 388 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 389 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 390 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 391 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 392 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 393 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 394 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 395 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 396 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 397 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 398 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 399 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 400 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 401 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 402 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 403 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 404 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 16:21:48 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[17-Sep-2015 17:21:44 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[17-Sep-2015 17:46:08 Europe/London] PHP Fatal error:  Maximum execution time of 900 seconds exceeded in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 224
+[17-Sep-2015 18:21:46 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[17-Sep-2015 19:21:53 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[17-Sep-2015 19:46:21 Europe/London] PHP Fatal error:  Maximum execution time of 900 seconds exceeded in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 224
+[17-Sep-2015 20:15:02 Europe/London] PHP Fatal error:  Maximum execution time of 900 seconds exceeded in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 224
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 355 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 356 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 357 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 358 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 359 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 360 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 361 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 362 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 363 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 364 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 365 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 366 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 367 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 368 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 369 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 370 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 371 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 372 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 373 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 374 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 375 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 376 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 377 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 378 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 379 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 380 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 381 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 382 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 383 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 384 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 385 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 386 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 387 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 388 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 389 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 390 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 391 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 392 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 393 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 394 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 395 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 396 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 397 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 398 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 399 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 400 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 401 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 402 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 403 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 404 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 355 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 356 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 357 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 358 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 359 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 360 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 361 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 362 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 363 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 364 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 365 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 366 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 367 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 368 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 369 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 370 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 371 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 372 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 373 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 374 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 375 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 376 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 377 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 378 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 379 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 380 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 381 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 382 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 383 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 384 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 385 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 386 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 387 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 388 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 389 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 390 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 391 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 392 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 393 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 394 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 395 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 396 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 397 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 398 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 399 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 400 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 401 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 402 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 403 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 19:15:02 UTC] PHP Warning:  (null)(): 404 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 20:46:34 Europe/London] PHP Fatal error:  Maximum execution time of 900 seconds exceeded in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 224
+[17-Sep-2015 21:46:34 Europe/London] PHP Fatal error:  Maximum execution time of 900 seconds exceeded in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 224
+[18-Sep-2015 00:29:01 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeCoralData.php on line 147
+[18-Sep-2015 00:32:55 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 159906 bytes) in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 159
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2279 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2281 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2282 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2293 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2297 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2306 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2310 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2312 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2313 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2314 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2317 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2319 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2322 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2323 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2324 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2326 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2328 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2329 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2330 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2331 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2334 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2335 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2336 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2337 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2338 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2339 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2340 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2341 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2342 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2343 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2344 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2345 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2346 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2347 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2348 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2349 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2350 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2351 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2352 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2353 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2354 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2355 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2356 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2357 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2358 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2359 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2360 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2361 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2362 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2363 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2279 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2281 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2282 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2293 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2297 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2306 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2310 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2312 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2313 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2314 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2317 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2319 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2322 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2323 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2324 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2326 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2328 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2329 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2330 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2331 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2334 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2335 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2336 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2337 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2338 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2339 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2340 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2341 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2342 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2343 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2344 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2345 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2346 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2347 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2348 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2349 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2350 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2351 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2352 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2353 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2354 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2355 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2356 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2357 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2358 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2359 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2360 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2361 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2362 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:32:55 UTC] PHP Warning:  (null)(): 2363 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:36:26 Europe/London] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 212652 bytes) in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 168
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4323 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4324 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4339 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4342 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4344 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4350 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4353 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4358 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4362 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4363 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4366 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4369 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4370 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4371 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4373 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4374 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4375 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4376 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4377 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4378 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4380 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4381 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4382 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4383 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4384 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4385 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4386 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4387 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4388 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4390 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4391 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4392 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4393 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4394 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4395 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4396 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4397 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4398 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4399 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4400 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4401 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4402 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4403 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4404 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4405 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4406 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4407 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4408 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4409 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4410 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4323 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4324 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4339 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4342 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4344 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4350 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4353 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4358 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4362 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4363 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4366 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4369 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4370 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4371 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4373 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4374 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4375 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4376 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4377 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4378 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4380 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4381 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4382 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4383 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4384 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4385 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4386 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4387 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4388 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4390 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4391 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4392 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4393 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4394 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4395 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4396 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4397 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4398 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4399 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4400 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4401 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4402 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4403 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4404 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4405 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4406 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4407 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4408 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4409 is not a valid cURL handle resource in Unknown on line 0
+[17-Sep-2015 23:36:26 UTC] PHP Warning:  (null)(): 4410 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:02 Europe/London] PHP Fatal error:  Maximum execution time of 900 seconds exceeded in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 226
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 406 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 407 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 408 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 409 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 410 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 411 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 412 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 413 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 414 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 415 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 406 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 407 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 408 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 409 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 410 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 411 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 412 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 413 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 414 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:15:02 UTC] PHP Warning:  (null)(): 415 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:31:32 UTC] PHP Warning:  (null)(): 357 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 00:31:32 UTC] PHP Warning:  (null)(): 357 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 02:15:01 Europe/London] PHP Fatal error:  Maximum execution time of 900 seconds exceeded in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 227
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 406 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 407 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 408 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 409 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 410 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 411 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 412 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 413 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 414 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 415 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 416 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 417 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 418 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 419 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 420 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 421 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 422 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 423 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 424 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 425 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 426 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 427 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 428 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 429 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 430 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 431 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 432 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 433 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 434 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 435 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 436 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 437 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 438 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 439 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 440 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 441 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 442 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 443 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 444 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 445 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 446 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 447 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 448 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 449 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 450 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 451 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 452 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 453 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 454 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 455 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 406 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 407 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 408 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 409 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 410 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 411 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 412 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 413 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 414 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 415 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 416 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 417 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 418 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 419 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 420 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 421 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 422 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 423 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 424 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 425 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 426 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 427 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 428 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 429 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 430 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 431 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 432 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 433 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 434 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 435 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 436 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 437 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 438 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 439 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 440 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 441 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 442 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 443 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 444 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 445 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 446 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 447 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 448 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 449 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 450 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 451 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 452 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 453 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 454 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 01:15:01 UTC] PHP Warning:  (null)(): 455 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 05:40:01 UTC] PHP Warning:  The use statement with non-compound name 'DB' has no effect in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 3
+[18-Sep-2015 05:40:16 UTC] PHP Warning:  The use statement with non-compound name 'DB' has no effect in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 3
+[18-Sep-2015 10:21:49 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[18-Sep-2015 11:21:47 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[18-Sep-2015 12:21:46 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[18-Sep-2015 13:21:56 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[18-Sep-2015 14:21:46 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[18-Sep-2015 15:21:50 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[18-Sep-2015 16:15:02 Europe/London] PHP Fatal error:  Maximum execution time of 900 seconds exceeded in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 229
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 406 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 407 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 408 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 409 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 410 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 411 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 412 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 413 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 414 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 415 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 416 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 417 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 418 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 419 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 420 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 421 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 422 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 423 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 424 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 425 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 426 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 427 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 428 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 429 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 430 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 431 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 432 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 433 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 434 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 435 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 436 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 437 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 438 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 439 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 440 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 441 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 442 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 443 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 444 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 445 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 446 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 447 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 448 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 449 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 450 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 451 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 452 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 453 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 454 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 455 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 406 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 407 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 408 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 409 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 410 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 411 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 412 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 413 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 414 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 415 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 416 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 417 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 418 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 419 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 420 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 421 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 422 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 423 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 424 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 425 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 426 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 427 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 428 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 429 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 430 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 431 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 432 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 433 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 434 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 435 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 436 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 437 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 438 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 439 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 440 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 441 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 442 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 443 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 444 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 445 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 446 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 447 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 448 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 449 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 450 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 451 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 452 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 453 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 454 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 15:15:02 UTC] PHP Warning:  (null)(): 455 is not a valid cURL handle resource in Unknown on line 0
+[18-Sep-2015 16:21:45 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[18-Sep-2015 17:21:51 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[18-Sep-2015 18:00:03 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 87 bytes) in /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 440
+[22-Sep-2015 01:48:40 Europe/London] PHP Warning:  Uncaught exception 'ErrorException' with message 'The use statement with non-compound name 'DB' has no effect' in /home/bettingapp/public_html/dev/storage/framework/views/7d026be044ddcc5d97b2a268ca43a6dc:7
+Stack trace:
+#0 /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(39): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'The use stateme...', '/home/bettingap...', 7, Array)
+#1 /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(39): Illuminate\View\Engines\PhpEngine::evaluatePath()
+#2 /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bettingap...', Array)
+#3 /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/View/View.php(136): Illuminate\View\Engines\CompilerEngine->get('/home/bettingap...', Array)
+#4 /home/bettingapp/public_html/dev/vendor/laravel/framework/ in /home/bettingapp/public_html/dev/storage/framework/views/7d026be044ddcc5d97b2a268ca43a6dc on line 7
+[22-Sep-2015 01:48:40 Europe/London] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/bettingapp/public_html/dev/storage/framework/views/7d026be044ddcc5d97b2a268ca43a6dc on line 124
+[22-Sep-2015 23:29:02 Europe/London] PHP Fatal error:  Class 'BetType' not found in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 320
+[22-Sep-2015 23:30:26 Europe/London] PHP Fatal error:  Class 'BetType' not found in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 320
+[22-Sep-2015 23:38:19 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/bettingapp/public_html/dev/storage/framework/views/7d026be044ddcc5d97b2a268ca43a6dc on line 135
+[23-Sep-2015 23:28:56 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/bettingapp/public_html/dev/storage/framework/views/7d026be044ddcc5d97b2a268ca43a6dc on line 174
+[23-Sep-2015 23:29:34 Europe/London] PHP Parse error:  syntax error, unexpected '[' in /home/bettingapp/public_html/dev/storage/framework/views/7d026be044ddcc5d97b2a268ca43a6dc on line 174
+[23-Sep-2015 23:59:09 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/bettingapp/public_html/dev/storage/framework/views/7d026be044ddcc5d97b2a268ca43a6dc on line 182
+[24-Sep-2015 00:36:50 Europe/London] PHP Parse error:  syntax error, unexpected 'continue' (T_CONTINUE), expecting ')' in /home/bettingapp/public_html/dev/storage/framework/views/7d026be044ddcc5d97b2a268ca43a6dc on line 181
+[24-Sep-2015 03:18:39 Europe/London] PHP Fatal error:  Class 'App\Console\Commands\File' not found in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeSkyBetData.php on line 142
+[24-Sep-2015 03:26:39 Europe/London] PHP Fatal error:  Call to undefined function App\Console\Commands\var_thumb() in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeSkyBetData.php on line 145
+[24-Sep-2015 16:21:42 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[24-Sep-2015 17:21:47 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[24-Sep-2015 18:21:47 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[24-Sep-2015 19:21:52 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[25-Sep-2015 06:19:13 Europe/London] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/bettingapp/public_html/dev/storage/framework/views/7d026be044ddcc5d97b2a268ca43a6dc on line 214
+[25-Sep-2015 18:21:43 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[26-Sep-2015 17:11:43 Europe/London] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/bettingapp/public_html/dev/storage/framework/views/d9e524973a90508d96ca29692bb3ab9a on line 299
+[27-Sep-2015 00:35:59 Europe/London] PHP Fatal error:  Access to undeclared static property: Carbon\Carbon::$horseEventMaster in /home/bettingapp/public_html/dev/storage/framework/views/d9e524973a90508d96ca29692bb3ab9a on line 109
+[27-Sep-2015 00:36:56 Europe/London] PHP Fatal error:  Call to undefined method Carbon\Carbon::strtotime() in /home/bettingapp/public_html/dev/storage/framework/views/d9e524973a90508d96ca29692bb3ab9a on line 109
+[27-Sep-2015 00:40:48 Europe/London] PHP Fatal error:  Call to undefined function today() in /home/bettingapp/public_html/dev/storage/framework/views/d9e524973a90508d96ca29692bb3ab9a on line 28
+[27-Sep-2015 00:44:11 Europe/London] PHP Fatal error:  Call to undefined function format() in /home/bettingapp/public_html/dev/storage/framework/views/d9e524973a90508d96ca29692bb3ab9a on line 110
+[30-Sep-2015 19:16:24 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 2961540 bytes) in /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 362
+[30-Sep-2015 20:16:20 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1040000 bytes) in /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 362
+[01-Oct-2015 02:16:12 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 2961679 bytes) in /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 362
+[01-Oct-2015 03:16:16 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1040000 bytes) in /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 362
+[01-Oct-2015 10:16:22 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 2961682 bytes) in /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 362
+[01-Oct-2015 11:16:21 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32 bytes) in /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 362
+[01-Oct-2015 12:16:21 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 80 bytes) in /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 362
+[01-Oct-2015 13:16:21 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 524288 bytes) in /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 1843
+[01-Oct-2015 14:16:22 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 72 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 221
+[01-Oct-2015 15:04:39 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 72 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 221
+[01-Oct-2015 16:01:18 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 128 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 189
+[01-Oct-2015 16:16:15 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 276475 bytes) in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 11
+[01-Oct-2015 17:01:18 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 93 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 187
+[01-Oct-2015 17:01:49 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[01-Oct-2015 17:11:47 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[01-Oct-2015 17:16:12 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 270828 bytes) in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 11
+[01-Oct-2015 18:01:16 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 265051 bytes) in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 11
+[01-Oct-2015 18:01:45 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[01-Oct-2015 18:11:44 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[01-Oct-2015 18:16:17 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 128 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 189
+[01-Oct-2015 19:01:15 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 91 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 183
+[01-Oct-2015 19:01:45 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[01-Oct-2015 19:11:50 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[01-Oct-2015 19:16:15 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 93 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 191
+[01-Oct-2015 20:01:20 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 85 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 182
+[01-Oct-2015 20:01:50 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[01-Oct-2015 20:11:43 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/vendor/symfony/console/Symfony/Component/Console/Application.php on line 1133
+[01-Oct-2015 20:16:09 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 93 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 192
+[01-Oct-2015 21:01:24 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 128 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 189
+[01-Oct-2015 21:16:15 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 185
+[01-Oct-2015 22:01:27 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 288676 bytes) in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 11
+[01-Oct-2015 22:16:13 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 186
+[01-Oct-2015 22:58:01 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/bettingapp/public_html/dev/app/Console/Commands/BetFairData.php on line 158
+[01-Oct-2015 23:01:17 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 188
+[01-Oct-2015 23:16:09 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 112 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 186
+[02-Oct-2015 00:16:15 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 112 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 188
+[02-Oct-2015 01:01:11 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 112 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 188
+[02-Oct-2015 01:16:08 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 99 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 184
+[02-Oct-2015 02:01:09 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 267092 bytes) in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 11
+[02-Oct-2015 02:16:09 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 269892 bytes) in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 11
+[02-Oct-2015 02:47:38 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFairData.php on line 148
+[02-Oct-2015 02:58:58 Europe/London] PHP Fatal error:  Class 'App\Console\Commands\DB' not found in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFairData.php on line 223
+[02-Oct-2015 03:01:16 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 717575 bytes) in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 11
+[02-Oct-2015 03:07:05 Europe/London] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 91 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeBetFredData.php on line 183
+[02-Oct-2015 05:38:40 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/bettingapp/public_html/dev/app/Http/Controllers/Frontend/HorseRacingController.php on line 619
+[10-Oct-2015 12:15:27 Europe/London] PHP Fatal error:  Maximum execution time of 180000 seconds exceeded in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 117
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 484 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 485 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 486 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 487 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 488 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 489 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 490 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 491 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 492 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 493 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 494 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 495 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 496 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 497 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 498 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 499 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 500 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 501 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 502 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 503 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 504 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 505 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 506 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 507 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 508 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 509 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 510 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 511 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 512 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 513 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 514 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 515 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 516 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 517 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 518 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 519 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 520 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 521 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 522 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 523 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 524 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 525 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 526 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 527 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 528 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 529 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 530 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 531 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 532 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 533 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 484 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 485 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 486 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 487 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 488 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 489 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 490 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 491 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 492 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 493 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 494 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 495 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 496 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 497 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 498 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 499 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 500 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 501 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 502 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 503 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 504 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 505 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 506 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 507 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 508 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 509 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 510 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 511 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 512 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 513 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 514 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 515 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 516 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 517 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 518 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 519 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 520 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 521 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 522 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 523 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 524 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 525 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 526 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 527 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 528 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 529 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 530 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 531 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 532 is not a valid cURL handle resource in Unknown on line 0
+[10-Oct-2015 11:15:27 UTC] PHP Warning:  (null)(): 533 is not a valid cURL handle resource in Unknown on line 0
+[11-Oct-2015 07:55:47 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 11
+[14-Oct-2015 12:00:05 Europe/London] PHP Fatal error:  Allowed memory size of 104857600 bytes exhausted (tried to allocate 32 bytes) in /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[14-Oct-2015 12:00:11 Europe/London] PHP Fatal error:  Allowed memory size of 104857600 bytes exhausted (tried to allocate 981663 bytes) in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 11
+[14-Oct-2015 12:00:36 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 232
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 538 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 539 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 540 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 541 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 542 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 543 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 544 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 545 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 546 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 547 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 548 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 549 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 550 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 551 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 552 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 553 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 554 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 555 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 556 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 557 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 558 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 559 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 560 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 561 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 562 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 563 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 564 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 565 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 566 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 567 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 568 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 569 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 570 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 571 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 572 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 573 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 574 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 575 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 576 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 577 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 578 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 579 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 580 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 581 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 582 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 583 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 584 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 585 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 586 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 587 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 538 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 539 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 540 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 541 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 542 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 543 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 544 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 545 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 546 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 547 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 548 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 549 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 550 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 551 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 552 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 553 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 554 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 555 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 556 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 557 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 558 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 559 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 560 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 561 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 562 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 563 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 564 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 565 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 566 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 567 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 568 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 569 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 570 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 571 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 572 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 573 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 574 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 575 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 576 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 577 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 578 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 579 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 580 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 581 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 582 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 583 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 584 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 585 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 586 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 11:00:36 UTC] PHP Warning:  (null)(): 587 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:15:05 Europe/London] PHP Fatal error:  Allowed memory size of 104857600 bytes exhausted (tried to allocate 32 bytes) in /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[14-Oct-2015 12:15:10 Europe/London] PHP Fatal error:  Allowed memory size of 104857600 bytes exhausted (tried to allocate 800771 bytes) in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 11
+[14-Oct-2015 13:00:06 Europe/London] PHP Fatal error:  Allowed memory size of 104857600 bytes exhausted (tried to allocate 32 bytes) in /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[14-Oct-2015 13:00:10 Europe/London] PHP Fatal error:  Allowed memory size of 104857600 bytes exhausted (tried to allocate 796491 bytes) in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 11
+[14-Oct-2015 13:00:12 Europe/London] PHP Fatal error:  Allowed memory size of 104857600 bytes exhausted (tried to allocate 32 bytes) in /home/bettingapp/public_html/dev/app/Console/Commands/OutcomeSkyBetData.php on line 127
+[14-Oct-2015 13:00:36 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 232
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 487 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 488 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 489 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 490 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 491 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 492 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 493 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 494 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 495 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 496 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 497 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 498 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 499 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 500 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 501 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 502 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 503 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 504 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 505 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 506 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 507 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 508 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 509 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 510 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 511 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 512 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 513 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 514 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 515 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 516 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 517 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 518 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 519 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 520 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 521 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 522 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 523 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 524 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 525 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 526 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 527 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 528 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 529 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 530 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 531 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 532 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 533 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 534 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 535 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 536 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 487 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 488 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 489 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 490 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 491 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 492 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 493 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 494 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 495 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 496 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 497 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 498 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 499 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 500 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 501 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 502 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 503 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 504 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 505 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 506 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 507 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 508 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 509 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 510 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 511 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 512 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 513 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 514 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 515 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 516 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 517 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 518 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 519 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 520 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 521 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 522 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 523 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 524 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 525 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 526 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 527 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 528 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 529 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 530 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 531 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 532 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 533 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 534 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 535 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 12:00:36 UTC] PHP Warning:  (null)(): 536 is not a valid cURL handle resource in Unknown on line 0
+[14-Oct-2015 13:15:06 Europe/London] PHP Fatal error:  Allowed memory size of 104857600 bytes exhausted (tried to allocate 32 bytes) in /home/bettingapp/public_html/dev/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[14-Oct-2015 13:15:09 Europe/London] PHP Fatal error:  Allowed memory size of 104857600 bytes exhausted (tried to allocate 790735 bytes) in /home/bettingapp/public_html/dev/app/Http/helpers.php on line 11

@@ -1,0 +1,11 @@
+794 SkyBet Events retrieved in 05 seconds
+
+492 UniBet Events retrieved in 16 seconds
+
+14 WilliamHills Events retrieved in 07 seconds
+
+341 Coral Events retrieved in 08 seconds
+
+X-Powered-By: PHP/5.4.42
+Content-type: text/html
+
